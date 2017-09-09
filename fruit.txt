@@ -6,5 +6,11 @@ peach
 lemon
 lemon
 plum
+<<<<<<< HEAD
 date
+date
+=======
+kiwi
+kiwi
+>>>>>>> b6cd2280249c1470beb28f87ff5e2456d3892e1f
 date
